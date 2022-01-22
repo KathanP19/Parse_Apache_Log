@@ -20,7 +20,7 @@ Options:
   -v, --verbose         Verbose Mode.
 ```
 
-`python3 parse_log.py -f apache_logs.txt`
+- `python3 parse_log.py -f apache_logs.txt`
 
-For Verbose Mode use option `-v`
-`python3 parse_log.py -f apache_logs.txt -v`
+For Verbose Mode use option `-v`:
+- `python3 parse_log.py -f apache_logs.txt -v`
