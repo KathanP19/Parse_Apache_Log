@@ -3,7 +3,7 @@ Simple Python Script to Parse Apache Log, Get all Unique IPs and Urls visited by
 
 - `allIP.txt` - Contains all the IPs in raw
 - `uniqueIP.txt` - Contains all unique IP's
-- `ipAndUrl.txt` - Conatains list of Urls visited by that particular IP.
+- `ipAndUrl.txt` - Contains list of Urls visited by that particular IP.
 
 # Installation:
 `git clone https://github.com/KathanP19/Parse_Apache_Log`
