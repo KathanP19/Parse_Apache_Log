@@ -1,11 +1,8 @@
 #!/bin/python3
 
-from fileinput import filename
-import re
 import sys
 import os
 from optparse import Option, OptionParser
-from tabnanny import verbose
 
 def readfile(f,v):
     openfile = open(f,"r")
